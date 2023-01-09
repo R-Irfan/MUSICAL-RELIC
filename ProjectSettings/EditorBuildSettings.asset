@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Relic.unity
+    guid: 346dbccb7644f714bba60ba25c6d7a6e
   m_configObjects: {}
